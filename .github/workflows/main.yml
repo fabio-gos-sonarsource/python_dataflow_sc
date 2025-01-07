@@ -6,6 +6,7 @@ on:
       - master
       - develop
       - 'releases/**'
+      - testing-branch
   pull_request:
       types: [opened, synchronize, reopened]
 

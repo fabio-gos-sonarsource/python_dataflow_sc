@@ -5,6 +5,6 @@ def foo():
     name = None
     hello(name)
 
-#foo()
+foo()
 
 print("Hello World!")
