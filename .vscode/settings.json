@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "fabio-gos-sonarsource",
+        "projectKey": "fabio-gos-sonarsource_python_dataflow_sc"
+    }
+}
